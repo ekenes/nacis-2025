@@ -1,10 +1,8 @@
-# NACIS 2025
-
-## Creating Thematic Maps with the Help of Generative AI
+# Visualize voting trends with more than 20 years of U.S. election data
 
 This talk explores various approaches to visualizing voting trends in U.S. presidential elections from 2000-2024 using an interactive web map. The app allows users to view election results from year to year using animations and composite multivariate symbols. I’ll introduce a map style that combines results from multiple elections into a single symbol, making it easy to see how support for a political party grew, shrunk, or maintained constant support over time in various regions of the United States. I’ll summarize the strengths and weaknesses of each visualization approach and propose when each visualization style is appropriate for specific audiences and situations.
 
-### Authors
+## Authors
 
 Kristian Ekenes
 
@@ -12,23 +10,24 @@ Kristian Ekenes
 - [LinkedIn](https://www.linkedin.com/in/kristian-ekenes/)
 - [GitHub](https://github.com/ekenes)
 
-### Video
+## Video
 
 Will share when posted
 
-### Slides
+## Slides
 
 [Download PDF slides](https://raw.githubusercontent.com/ekenes/nacis-2025/refs/heads/main/slides.pdf)
 
-### Live app
+## Web app - U.S. Presidential Election Trends (2000-2024)
 
-- [Application: U.S. Presidential Election Trends (2000-2024)](https://ekenes.github.io/us-presidential-elections/) (best viewed on desktop)
+- [Live app](https://ekenes.github.io/us-presidential-elections/) (best viewed on desktop)
+- [Code](https://github.com/ekenes/us-presidential-elections)
 
-### Article describing process
+## Article describing process
 
 - [Visualize voting trends in 20 years’ worth of U.S. election data](https://www.esri.com/arcgis-blog/products/js-api-arcgis/mapping/visualize-voting-trends-in-20-years-worth-of-u-s-election-data)
 
-### Additional Resources
+## Additional Resources
 
 - [Visualize electoral swing using composite symbols](https://www.esri.com/arcgis-blog/products/js-api-arcgis/mapping/visualize-electoral-swing-using-composite-symbols)
 - [Electoral swing in the 2020 U.S. presidential election](https://www.esri.com/arcgis-blog/products/js-api-arcgis/mapping/electoral-swing-in-the-2020-u-s-presidential-election)
